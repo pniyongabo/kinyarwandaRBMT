@@ -1,0 +1,5563 @@
+I am able to swim.
+able
+about
+account
+acid
+across
+act
+addition
+adjustment
+advertisement
+after
+again
+against
+agreement
+air
+all
+almost
+among
+amount
+amusement
+angry
+angle
+animal
+answer
+ant
+any
+apple
+approval
+arch
+argument
+arm
+army
+attack
+attempt
+attention
+distraction
+authority
+automatic
+baby
+back
+bag
+balance
+ball
+band
+basis
+basin
+basket
+be
+bed
+bee
+before
+behaviour
+belief
+bell
+bend
+berry
+between
+tutorial
+birth
+bit
+bite
+bitter
+blade
+blood
+blow
+board
+boat
+body
+boil
+bone
+book
+boot
+bottle
+box
+boy
+brain
+branch
+brass
+bread
+breath
+brick
+bridge
+bright
+break
+brother
+brown
+brush
+bucket
+building
+bulb
+burn
+burst
+business
+butter
+button
+by
+cake
+camera
+card
+carriage
+cart
+cat
+cause
+chain
+chalk
+chance
+cheap
+chest
+chief
+chin
+church
+circle
+clear
+clock
+cloth
+cloud
+coal
+coat
+cold
+collar
+colour
+comb
+come
+comfort
+committee
+common
+company
+comparison
+competition
+complete
+condition
+connection
+conscious
+control
+cook
+cord
+cork
+cotton
+country
+cover
+crack
+credit
+crime
+cruel
+crush
+cup
+current
+curtain
+curve
+cushion
+damage
+danger
+dark
+daughter
+day
+dead
+dear
+death
+debt
+decision
+deep
+delicate
+design
+destruction
+detail
+different
+direction
+dirty
+discovery
+discussion
+disease
+disgust
+distance
+distribution
+division
+dog
+affection
+doubt
+down
+drain
+drawer
+dress
+drink
+drop
+dust
+ear
+early
+earth
+east
+edge
+education
+effect
+egg
+elastic
+electric
+end
+engine
+enough
+equal
+error
+even
+event
+ever
+every
+example
+exchange
+existence
+expansion
+experience
+expert
+eye
+face
+fall
+FALSE
+family
+far
+farm
+fat
+father
+feather
+feeble
+feeling
+female
+fertile
+fiction
+field
+fight
+finger
+fire
+first
+fish
+fixed
+flag
+flame
+flat
+flight
+flower
+fly
+fold
+food
+foolish
+foot
+for
+force
+fork
+form
+forward
+fowl
+free
+frequent
+friend
+from
+front
+fruit
+full
+future
+garden
+general
+get
+girl
+give
+glass
+glove
+go
+goat
+gold
+good
+government
+grain
+grass
+great
+green
+grip
+growth
+guide
+gun
+hair
+hammer
+hand
+hanging
+happy
+harbour
+hard
+harmony
+hat
+hate
+have
+head
+hear
+hearing
+heart
+heat
+help
+high
+history
+hole
+hope
+horn
+horse
+hospital
+hour
+house
+how
+humour
+ice
+idea
+if
+ill
+important
+in
+increase
+industry
+insect
+instrument
+insurance
+interest
+invention
+iron
+island
+jewel
+join
+journey
+judge
+jump
+keep
+kettle
+key
+kick
+kind
+kiss
+knee
+knife
+knot
+knowledge
+land
+language
+last
+late
+laugh
+law
+lead
+leaf
+learning
+left
+leg
+let
+letter
+level
+library
+lift
+light
+like
+limit
+line
+lip
+liquid
+list
+little
+living
+lock
+long
+look
+loose
+loss
+loud
+love
+low
+machine
+make
+male
+man
+manager
+map
+mark
+market
+married
+mass
+match
+material
+may
+meal
+measure 
+meat
+medical
+meeting
+memory
+metal
+middle
+military
+milk
+mind
+mine
+minute
+mist
+mixed
+money
+monkey
+month
+moon
+morning
+mother
+motion
+mountain
+mouth
+move
+much
+muscle
+music
+nail
+name
+narrow
+nation
+natural
+near 
+necessary
+neck
+need
+needle
+nerve
+net
+new
+news
+night
+no
+noise
+normal
+north
+nose
+not
+note
+now
+number
+nut
+observation
+of
+off
+offer
+office
+oil
+old
+on
+only
+open
+operation
+opinion
+opposite
+or
+orange
+order
+organization
+ornament
+other
+out
+oven
+over
+owner
+page
+pain
+paint
+paper
+parallel
+parcel
+part
+past
+paste
+payment
+peace
+employee
+pencil
+person
+physical
+picture
+pig
+pin
+pipe
+place
+plane
+plant
+plate
+play
+please
+pleasure
+plough
+pocket
+point
+poison
+polish
+political
+poor
+position
+possible
+pot
+potato
+powder
+power
+present
+price
+print
+prison
+private
+probable
+process
+produce
+profit
+property
+prose
+protest
+public
+pull
+pump
+punishment
+purpose
+push
+put
+quality
+question
+quick
+quiet
+quite
+rail
+rain
+range
+rat
+rate
+ray
+reaction
+reading
+ready
+reason
+receipt
+record
+regret
+regular
+relation
+religion
+representative
+request
+respect
+responsible
+rest
+reward
+rhythm
+rice
+right
+ring
+river
+road
+rod
+roll
+roof
+room
+root
+rough
+round
+rub
+rule
+run
+sad
+safe
+salt
+same
+sand
+say
+scale
+school
+science
+scissors
+screw
+sea
+seat
+second
+secret
+secretary
+see
+seed
+seem
+selection
+send
+sense
+separate
+serious
+servant
+sex
+shade
+shake
+shame
+sharp
+sheep
+shelf
+ship
+shirt
+shock
+shoe
+short
+shut
+side
+sign
+simple
+sister
+size
+skin
+skirt
+sky
+sleep
+slip
+slope
+slow
+small
+smash
+smell
+smile
+smoke
+smooth
+sneeze
+snow
+so
+soap
+society
+sock
+soft
+solid
+some
+son
+song
+sort
+sound
+soup
+south
+space
+special
+sponge
+spoon
+square
+stage
+star
+start
+statement
+stem
+step
+stick
+still
+stocking
+stomach
+stone
+stop
+store
+story
+straight
+strange
+street
+stretch
+strong
+substance
+sudden
+sugar
+suggestion
+summer
+sun
+support
+surprise
+sweet
+swim
+system
+table
+tail
+take
+talk
+tall
+taste
+tax
+teaching
+tendency
+test
+than
+that
+then
+there
+thick
+thin
+thing
+this
+thought
+thread
+throat
+through
+thumb
+thunder
+ticket
+tight
+till
+time
+tin
+tired
+to
+toe
+together
+tomorrow
+tongue
+tooth
+top
+touch
+town
+trade
+train
+transport
+tray
+tree
+trick
+trouble
+trousers
+TRUE
+turn
+twist
+umbrella
+under
+unit
+up
+use
+value
+verse
+very
+vessel
+view
+violent
+voice
+waiting
+walk
+wall
+war
+warm
+wash
+waste
+watch
+water
+wave
+way
+weather
+week
+weight
+well
+west
+wet
+wheel
+when
+where
+while
+whip
+whistle
+white
+why
+wide
+govern
+wind
+window
+wine
+wing
+winter
+wire
+wise
+with
+woman
+wood
+word
+work
+worm
+wound
+writing
+wrong
+year
+yellow
+yes
+yesterday
+you
+young
+child
+children
+women
+muscles
+people
+years
+center (in the)
+change (V)
+change (N)
+chemistry
+physics
+mathematics
+go (imperative)
+go (to go,inf)
+girls
+words
+eat (to eat)
+eat (imperative)
+stop (V)
+noses
+nail (fingernail)
+nails
+names
+add
+anger
+angry (to be angry)
+I am angry
+I have
+They have
+We have
+You have
+hours
+help (N)
+I am happy
+We are happy
+Are you happy?
+Hi!
+Hello!
+Good morning!
+Good evening!
+hang
+cough (V)
+Come!
+Come here!
+I come
+He/She comes
+they will come
+men
+order (command)
+old man
+old woman
+old bike
+die
+refuse
+ccept
+enter
+right (on the right)
+I am ready
+re you ready?
+record (song, speech)
+I am able to do it.
+across the street
+ass
+are you awake?
+I am awake
+He is back.
+I will be back in a short mome
+You are
+You are a student
+I am
+I am a teacher
+You are beautiful.
+This house is beautiful
+Those kids are beautiful
+birthday
+the dog bit him
+my elder brother
+my elder sister
+my brother
+breathe
+bleed
+9 o' clock
+7 o' clock
+he is dead
+the dead
+different names
+dirty house
+dirty person
+dirt
+disgusting
+to do
+what are you doing?
+How do you do?(=What's up?)
+Do you have a car?
+fight against
+the first day
+the last song
+my father
+your father
+his/her father
+his/her mother
+Thank you!
+welcome
+Goodbye!
+switch the lights on.
+switch the lights off.
+I love you!
+My cousin
+Your cousin
+grandpa
+grandma
+grand-father (see father)
+grand-mother (see mother)
+vegetables
+Irish potatoes
+sweet potatoes
+beans
+laziness
+lazy
+lie
+lie (tell lies)
+chicken
+toilet ( bathroom)
+find
+find Bucuti.
+God
+may God bless you!
+curse
+pride
+airplane, plane
+glasses
+lights
+snore
+bless you! --(on sneezing)
+Fuck you!
+stupid
+generosity
+lend
+Can you lend me your pen, plea
+lend me your book.
+borrow
+May I borrow your jacket?
+freedom
+liberty
+Independence
+colonialism
+white man
+black man
+greeting
+prayer
+pray
+game
+The World Cup
+Soccer
+jealousy
+I am jealous...
+trip
+Safe trip!
+fart
+visit
+he has farted!
+he farted (long time ago)
+long time ago
+call (to call)
+I called you
+tell me
+remember (to ...)
+remember me!
+forget
+I have forgotten!
+I am sick
+I am hungry
+I am thirsty
+thirst
+hunger
+fury
+mistake
+to be mistaken
+I was mistaken!
+May I help you?
+firewood
+waste (to waste)
+trash
+pupil
+student
+teacher
+gain
+win
+a wide road
+project
+present tense
+pneumonia
+Where did you put my bottle?
+quickly
+be quiet
+a quiet environment
+revolution
+I am sad.
+sadness
+sailor
+What did you say?
+What will I say?
+Do not say it!
+10 seconds
+the second house
+Did you see him?
+myself
+send me that money.
+I have sent the book.
+a serious problem
+to have sex
+fuck (to f...)
+Shut up!
+shy
+slowly
+a small child
+a small house
+small books
+Do you smoke?
+the smoke
+a good song
+a bad song
+Take that bottle.
+I am tired
+we are tired
+Do not touch!
+a true story
+under the table
+under the tree
+stand up!
+ghost
+hymn
+illness
+I am ill
+leader
+I need you
+What do you need?
+the needy
+squirt
+penis
+vagina
+pussy
+fine!
+When will you come?
+When did you come?
+Tell me when you will come.
+I don't know when he was born.
+I don't know!
+I don't know you.
+Where do you live?
+fuck
+break
+to break
+My stick is broken (---break--
+climb
+shit
+joke
+stir
+banana
+homework
+lunch
+computer
+write
+to be widened, made wider
+to widen, make wider
+to go to pasture
+to be separated, divorced
+to herd to pasture (cattle)
+be burning
+to receive, welcome, accept, t
+to spread everywhere, become k
+advertise
+to wear
+to be worn
+to pray, petition, call upon, 
+to clothe, dress someone else
+to cross body of water or land
+to refuse to payback what you 
+to leave something in the wron
+to write
+to write to, write for, write 
+to be written to, written for,
+to register
+to be registered
+to be written
+to hate each other, dislike ea
+to resist, refuse to
+to be destroyed, damaged
+to be hated, dislike, refused
+to put out in the sun, expose
+to bring in from the sun
+to decide, conclude
+to stay in the house after bei
+to mix water and flour, make p
+to cut or chop firewood
+to open one's mouth
+to start (an object), set fire
+to be started, be burned
+to yawn
+to be in pain, suffer, hurt
+to forgive
+to be forgiven
+arise quickly
+to butcher, operate on, remove
+to fight to the death, inflict
+to weed
+to be weeded
+be butchered
+to stretch out to dry, crucify
+to remove a hide from the pegs
+to live together
+to be parallel, facing the sam
+to hurry, go quickly, rush
+to begin by
+to precede
+to count
+to make statistics
+to be counted
+be capable
+baptise
+be baptised
+inquire
+to shine, gleam
+to be unjust
+to tilt, slope
+to pass after others have move
+to move aside to allow passage
+to fit, be well fitting, be we
+to falsely accuse, lie about s
+to plant, sow
+to crow
+to roll along
+to cross another's path, bypas
+to boil
+to be soft, wet
+to make soft, wet
+to bind, tie, weave, knit
+to braid, twist
+to release, liberate
+to see each other, find each o
+to be visible, appear, show up
+to see at (for the first time)
+to make clean, visible, pure
+to be seen
+to rot, decay
+to howl, wail
+to play the board game {igisor
+to make bricks, pottery, mould
+to make bricks for someone els
+to wander
+to return from wandering
+to go from place to place sell
+to lack, lose, not find
+to defend oneself in response 
+to lose something at
+to wander about, be a vagabond
+to cause someone to wander abo
+to forbid, prevent, stop
+to be forbidden
+to give birth
+to be pregnant
+to tell
+to preach, incite
+to give birth, deliver
+to cause to give birth
+to gain weight, become heavier
+to be squashing someone with o
+to swell
+to dance
+to wake up, arise
+to wake someone up
+to cut, tear
+to chop up, parse
+to be half filled
+to switch on, ignite, light
+to be switched on, ignited
+to have something printed
+to be silent, quiet, stop talk
+to trick, dodge
+to come to a place undetected,
+to insert, cause to penetrate
+to be torn
+to have a child with your brot
+to make an error, err, miscalc
+to spit
+bargain
+to be spat on
+to be reduce, less, decreased
+to reduce, lessen, decrease, w
+to plug in, insert
+to unplug, remove
+to mash
+to penetrate slightly
+to shake something to mix it
+to dig a hole, mine
+to give off smoke
+to stay temporarily, find lodg
+to give lodging to
+to leave a place of lodging
+to penetrate, pierce
+to sin
+to separate {ikivuguto} into b
+to manage
+to pay ransom, redeem
+to take all of something befor
+to play an instrument
+to turn upside down
+to do business, trade
+to be traded
+to fade
+to change from night to day
+to rebuke
+to jest, poke fun at
+to bring back, lead home
+to constantly remind someone o
+be brought back home
+to decant
+to not bury each other
+to be faithful, not fail someo
+to not be tempted
+to lack nothing, have luxury
+to not spend, not disperse
+to be lazy
+to perform traditional dance
+to hinder, prevent another fro
+to sew
+to be sewed
+to well up, spring up (liquid)
+to be leaning (as person)
+to lean against something (as 
+to lean or place object agains
+to bring together
+to bring something to another
+to straighten up, become strai
+to keep something straight or 
+to give completely, without co
+allow
+to commit adultery, fornicate
+to brew beer
+to be white
+to show
+to show to each other
+to turn toward
+to direct, cause to turn towar
+to be very white, very pure
+to expose the truth
+to fulfil promise or agreement
+to demonstrate that one has ke
+to make pure, purify, exonerat
+to be made pure, purified, exo
+to support
+to help, assist
+to help, assist by giving
+to be helped, assisted
+to cooperate, share, partner, 
+to encode, encrypt, hide
+to decode, uncover, decrypt, u
+sign language
+to take photograph (photo)
+to be photographed
+to err, make a mistake
+to be narrow
+to be open, unlocked
+to be opened
+to be closed, shut, imprisoned
+to knead (bread), kick in the 
+to wash clothes
+to give, deploy, put forth
+to be diminished, reduced, dec
+to divide, allot, reduce
+to be divided, allotted, reduc
+to turn someone over to police
+to feed, give food
+to be fed, given food
+to spoil, be spoiled (food)
+to become stiff, stiffen
+to make stiff, stiffen
+to talk
+to betray
+to decide, determine, plan, pl
+to go forward, advance, procee
+to chat, converse, discuss
+to moan, groan, wail, grieve, 
+to complain
+to conquer, utterly defeat, ro
+to be conquered, utterly defea
+to make visible, clear, obviou
+to be made visible, clear, obv
+to lie on one's back
+to return here
+to row, paddle
+to be ungrateful, unappreciati
+to bring food
+to bring food to someone
+to plan for, decide, assign
+to walk about
+to go together, accompany, esc
+allocate
+to legislate, govern
+to become wide, widespread
+to demonstrate, show how, do
+to do something in specific wa
+to investigate
+to reach, arrive, measure
+to place on top of something e
+to be stacked on each other, b
+to compare, estimate
+to be reached
+to harvest millet, wheat or so
+to end with, reach, until
+to be in puberty (boy)
+to stutter, stammer, hesitate
+to hesitate, be fearful
+to be made of, composed of
+to move to find pasture
+ask for advice
+be asked for advice
+to unexpectedly help or aid
+to rebel, disobey
+to have to, need to, must, sho
+to be difficult, troublesome
+to bend
+to become evening or later in 
+to make straight, straighten, 
+to reward, recompense (as king
+to become straight, be flexibl
+to be unfortunate, unlucky
+to encircle, surround
+to feel physically
+to stay, remain
+to stay with, remain with
+to buy, purchase
+to exchange, swap
+to buy for, buy from
+to sell
+to be sold
+to lend money to someone
+to fly
+be bought
+to cause to fall, take down
+to borrow, lend
+to be overcome by tiredness
+to happen suddenly or unexpect
+to faint, be tired, hungry and
+to overeat, eat too much
+to be well behaved
+be accumulated
+accumulate
+to be lost, wander about with 
+to find the way after being lo
+to be given, receive
+to be full, satisfied
+to represent, stand in for, ta
+to cause to stop or stand
+to stand up, arise
+to cause one to stand
+to exchange, trade something (
+to be traumatised
+to deny, refuse, reject
+to remain, stay
+to bury someone
+to bury each other, take care 
+to tie up, bind, wrap
+to become untied, loose
+to untie, unwrap
+be buried
+to testify to
+to be cowardly
+to witness, testify, affirm, a
+to correct, reprimand
+to rub, polish, wipe, dust
+to perform a piece of music
+oppose
+confront
+tackle
+be abased
+abase
+elevate
+to fall from above
+to pull down
+to seek prophesy
+to be corrected, reprimanded
+to give up, let something go
+to strive for
+to scrape, scratch, dig just t
+to peel with knife
+to be peeled with knife
+to satisfy, be sufficient, eno
+to be lost forever
+to exceed, be superior
+to lust
+to carry, transport
+to chew
+be chewed
+be carried on someone's back
+to pay for something done, rew
+to pay at, reward at
+be rewarded for
+be rewarded
+to be unfaithful, fail someone
+give
+overcharge
+be cheap
+be overcharged
+disappear
+escort
+be beside
+transmit
+empoverish
+strive
+strive after
+invent
+praise
+seek
+be changed
+quest
+turn (?) around
+alter
+be changed
+dig
+emerge
+mention
+educate
+criticise
+invert
+be lucky
+conceal
+pass by
+select
+have diarrhoea
+embrace one another
+cover
+glory
+translate
+jungle,bush
+bush
+garbage
+conversation
+translator
+sponsor
+collaboration
+collaborator
+volunteer
+translation
+message
+count
+Christmas
+Easter
+clay pot
+appear suddenly
+something foreign
+misfortune
+harshness
+harsh person
+sin
+little basket
+armpit
+elsewhere
+perhaps
+however
+divorce
+divorce temporarily
+shine
+glimmer
+accept
+forever
+bad luck
+spread everywhere
+make known
+wear
+port
+cross
+take clothes off
+undress
+thief
+robber
+king
+lord
+kingdom
+master
+childhood
+calf
+pineaple
+writer
+dislike
+resist
+put out in the sun
+ocean
+take from the sun
+brief moment
+tomato
+enemy
+conclusion
+young lady
+nest
+disciple
+professor
+country side
+village
+youth
+grow up
+cut firewood
+open the mouth
+turn on
+weed
+exist
+live
+suffer
+be sad
+suffering
+forgive
+hurt
+forgiveness
+get up quickly
+butcher
+crowd
+peoples
+butcher shop
+dot
+build
+carpenter
+crucify
+take down
+live together
+valley
+place together
+hurry
+begin with
+trial
+precede
+color
+strength
+news paper
+census
+letter (missive)
+be able
+closet
+baptize
+slave
+ask
+read
+mouse
+bowl
+peanut
+leprosy
+leper
+gleam
+in front
+lifestyle
+tell a lie
+fool
+sower
+taste bad
+crow
+froth at the mouth
+clay water pot
+reed
+boil
+American
+Rwandan
+roll along
+box of matches
+leave alone
+boil (tr)
+theirs
+moisten
+vegetable
+buffalo
+tie
+knit
+prisoner
+captive
+untie
+receive
+be visible
+appear
+pupil (of eye)
+rot
+howl
+wail
+torture
+mosquito
+courtyard
+playground
+little by little
+the next day
+infinitive
+return quickly
+lack
+hail
+plead
+good-looking peson
+warn
+on the right
+in vain
+pebble
+wander about
+forbid
+puppy
+own
+tell
+preach
+incite to
+give birth (to)
+parent
+be fat
+swell
+abcess
+corpse
+thickness
+dance
+soot
+workday
+furthermore
+moreover
+get up
+lift u[
+cut
+be cut
+sever
+be severed
+axe
+chop up
+be half-filled
+start a fire
+saliva
+mercenary
+gravel
+mat
+rug
+piece
+half
+chapter
+silently
+silent
+penetrate
+soak in
+escape
+make an error
+miscalculate
+save from being being wiped ou
+dysentery
+tell a fable
+fable
+proverb
+tale
+be condemned
+filthiness
+weaken
+discourage
+be discouraged
+our
+dawn
+foolish person
+shadow
+mash
+shake up and down
+shake hard
+manure
+deep night
+gourd
+calabash
+midnight
+noon
+in the morning
+evening
+give off smoke
+smoke
+lodge
+dormitory
+guest
+visitor
+host
+host (-)
+resume
+ten
+spear
+arrow
+transgression
+swing
+ransom
+redeem
+redeemer
+ransom (v)
+ransom (incungu)
+forge
+imitate
+a runny nose
+play (music)
+epilepsy
+cliff
+turn upside down
+reverse
+upside down
+trader
+merchant
+pal
+buddy
+friend (inshuti)
+friendship
+river (big)
+reprimand
+rebuke
+very much
+especially
+nine
+dry season
+light (->urumuri)
+lamp
+traffic lights
+jest
+bring back home
+taunt
+fade
+louse
+pregnancy
+belly
+perfumed ornament
+interminable
+faithful
+be faithful
+disappoint
+second (1/60 minute)
+second (1/60 of a minute)
+demon
+perfect
+thwart
+have luxury
+my dad
+his father
+exceedingly white
+babble
+airplane
+a dying person
+idleness
+lemon
+den
+hinder progress
+pail
+sew
+donkey
+jug
+something very tiny
+mirror
+disorder
+spring up
+city
+shop
+super market
+cry of alarm
+scorpion
+him , her
+lean against
+lean (tr.) against
+approach
+bring near
+be close
+ladder
+straighten up
+turn toward
+both of you
+both of us
+consent
+admit
+permit
+be about to
+garment
+citizen
+brew
+brewery
+intelligence
+wisdom
+ripen
+be white
+show
+show (tr)
+turn toward (to face)
+be very white
+dazzling whiteness
+harvest (maturity)
+emphasize
+throw down
+zeal
+purify
+table (rows and columns)
+holly
+shepherd
+French
+grab
+grasp
+seize
+catch
+treat
+cooperate
+comrade
+fish (v)
+fisherman
+guess
+take a picture
+sack
+act wrongly
+mason
+close
+imprison
+be narrow
+eat
+worn-out hoe
+stove
+first-born
+foam
+froth
+corner
+give mercifully
+shared part
+diminish
+decrease
+decrease (passive)
+divide
+army soldier
+soldier
+release
+wife
+feed
+be spoiled
+stiffen
+betray
+plan
+camel
+go to
+factory
+group service
+disobedient person
+temporary shekter
+camp 
+doctor
+medicin
+fever
+converse
+ grain of wheat
+grieve
+defeat
+conquer
+edge of container
+publicly
+male servant
+young single
+lie flat
+compost pit
+bicycle
+bike
+broad
+return
+consequence
+repercusion
+row
+paddle
+despise
+disdain
+scorn
+blame
+plan for
+go with
+accompany
+jpurney
+destine for
+govern
+supervise
+schedule
+bride
+spy on
+behave towards
+traveller
+passenger
+habit
+custom
+try
+place on top
+supplement
+compare
+estimate
+age
+rust
+until
+stream
+go to the help of
+so that
+manner of doing
+idol
+blessing
+homestead
+unexpected help
+hammock
+placenta
+rebel
+revolt
+rebellion
+be troublesome
+be crooked
+bend
+maize
+straighten
+recompense
+award
+be straight
+difficulties
+be unfortunate
+hem in 
+bonds
+rope
+string
+shallow
+near (close in space)
+stay
+remain
+wound (big)
+create
+cripled person
+be very ill
+gate
+phone
+signal to come
+cause to suffer greatly
+be heavy
+be heavy laden
+patch
+go past
+give justice to one who has be
+treat unjustly
+priority
+try to save from danger
+direct remarks towards
+be submerged
+reducule
+rear child 
+husband
+class
+big
+eat
+sweet potato
+pray
+thank
+hot
+kid
+influence
+be equal( lenght, height, impo
+except
+trample on
+truth
+be eaten
+fall in ruins
+cheat
+trickery
+disappear into ground
+dress beautifully
+perish
+destroy
+university
+college
+once
+wait for
+be flat
+make equal
+blanket
+weep
+tears
+sing a song( or hymn)
+pasture
+kilogram
+millet( one grain, one plant)
+fishe
+set aside
+fish
+moon
+think
+embrace
+hug
+hang
+day
+night
+love
+steal
+like
+respect
+interrupt
+throw(into water)
+drown
+shipwreck
+pull out of water(or fire)
+be saved
+save (from danger, death)
+go on further
+be economical
+chat for a long time
+just words
+describe
+tick
+wash vegetables
+line
+mud
+marry a bride
+lead
+receive( only in sense of some
+stop
+remember
+want
+need
+town
+taste
+celebration
+dream
+poison
+become angry
+be tired
+vomit
+be abundant
+open( as a flower)
+snake that bites at both ends(
+can
+may
+leave
+go
+thunder
+indian
+rainy season
+change
+change
+turn around
+cultivate
+hoe
+handle
+appear
+baby
+infant
+gardener
+cultivator
+home
+push away
+be blessed
+fortunate
+fortune
+hide
+burn
+reveal
+passerby
+passer-by
+pass
+pork
+poverty
+have diarrhea
+embrace each other
+throat
+kind
+cow
+life
+blood
+terror
+fear
+fear
+violence
+plaster
+lose
+beat up
+car
+red
+yellow
+blue
+white
+green
+brown
+wilt
+survive
+cool down
+shut up
+avenge
+revenge
+revenge
+last
+tax
+everywhere
+twist
+console
+haze
+fog
+skin
+fall
+be busy
+pillage
+be intelligent
+inform
+inform
+workshop
+embezzle
+embezzlement
+defalcate
+defalcator
+fiddle
+malversate
+peculate
+be defiled
+become clean
+defile
+make ceremonially clean
+thousand
+mold
+respire
+close eyes
+blind
+regain sight
+smell
+stink
+smell
+restore sight
+comfort
+encourage
+be ended
+finish
+end
+program
+flee
+shell
+store
+nod
+owl
+meet
+encounter
+meeting place
+forest-dwelling
+scrub
+hour
+goat manure
+permission
+thorn
+cease
+live alone
+concentrate on
+immerse
+flat basket
+arrogance
+pride
+recall
+at least
+remind
+murderer
+killer
+sit
+stand
+stand up
+group
+help oneself
+move on
+however
+headquarter
+behave
+abstinence
+temperature
+sex
+gender
+adultery
+fornication
+snake
+beer
+way
+path
+short
+long
+expert
+maven
+sobriety
+behaviour
+drive
+driver
+worker
+job
+job
+duty
+rights
+behavior
+teach
+instructor
+doctrines
+lesson
+course
+get covered
+wish
+covet
+crave for
+desire
+begrudge
+study
+learn
+examine
+fake
+lament
+worry
+complain
+lamentation
+thrash around
+jactate
+be daring
+independence
+freedom
+liberty
+manner of study
+repent
+confess
+acuse
+report
+acknowledge
+confess
+proclaim
+publish
+declare
+amaze
+surprise
+warn
+admonish
+caution
+reprove
+rebuke
+property
+possess
+special
+despair
+be alone
+get self-instructed
+hurry
+haze
+be dark
+liver
+darkness
+murmur
+carry
+take off
+withhold
+stead
+place
+beseech
+complain
+get late
+eclipse
+plead not guilty
+plead
+beg
+haste
+neglect
+disregard
+throw behind
+trust
+rely on
+expectation
+happiness
+happy
+glad
+joyful
+rush upon
+secret
+chase away
+hunt
+chase
+apologize
+backing
+support
+mistrust
+pay
+restitution
+restitution
+nephew
+tear
+self-examine
+clean body
+care for
+rename
+call
+invite
+invitation
+welcome
+answer
+respond
+reply
+surrender
+self-isolate
+pension
+peace
+tranquility
+composure
+serenity
+model
+scrutiny
+be careful
+be careful about
+fuss
+practice
+exercise
+comma
+be concerned about
+excuse
+rebuke
+behave loosely
+show --self
+starve
+starve
+dignity
+get reconciliated
+reconciliation
+bathe
+beauty
+beautiful
+believe
+beliefs
+celebrate
+word
+word_P
+hundred
+hundredSI
+cat
+go from place to place
+stagger
+ignorant
+mystery
+be knowledgeable
+remove ignorance
+grudge
+anger
+sorrow
+eye
+eyeSI
+neck
+throw
+appeal to higher court
+heaven
+sky
+development
+go with
+advisor
+paragraph
+exagerate
+dry up
+crown
+crawl
+old man
+wring
+thread on
+belt
+frighten
+threaten
+be frightened
+threaten by
+awaken
+animator
+stupid
+clever
+scold
+fork
+dress
+charcoal
+shower
+pencil
+broil
+hurry
+lose flavor
+few
+cut in pieces
+look all aroud
+old waman
+worry
+blame
+be poor
+monkey
+saw
+honey
+surround
+tribunal
+court
+disagreement
+play together
+shut
+palm tree
+palm
+pillar
+prevent from seeing
+vaccination
+unlock
+game
+heal
+get rich
+be wicked
+reach agreement
+righteous person
+rich
+richness
+source of salvation
+cure
+rescue
+save
+rescuer
+savior
+salvation
+whip
+chicken
+milk
+hinder
+clap
+knock
+combine
+bank
+shore
+cup
+be strong
+hard
+difficult
+easy
+sturdy
+important
+necessary
+be wounded
+continue
+strengthen
+descend
+origin
+derive from
+navel
+set afire
+vulture
+kitchen
+stick
+be cold
+pot
+repair
+prepare
+prepare
+fix
+work together
+get-together
+collect
+summon
+employ
+tax collector
+craftsmanship
+art
+cough
+cough
+rainbow
+coin
+action
+deed
+error
+sword
+jacket
+scar
+employer
+multiply
+thunder
+strike
+hit
+beat
+broom
+broom
+sweep
+pick
+indicate
+location
+one
+step
+correct
+dictionary
+keep
+user
+choose
+English
+French
+Dutch
+version
+loose
+game-play
+track
+challenge
+turn
+get
+flock
+miss
+thumb
+allow
+enrich
+satisfy
+richness
+dust
+shake
+grow up
+dwarf
+follow
+story
+drag along
+drag
+wall
+take a loving care for
+nostalgia
+lead
+firewood
+fire
+coffee
+complexe
+bird
+two
+three
+four
+five
+six
+seven
+eight
+ten
+same
+illustrate
+demonstrate
+complexity
+tool
+manage
+you
+contain
+closer
+closer
+high-score
+more
+deal
+score
+update
+widget
+stuff
+hen
+when
+information
+process
+sufficient
+new
+email
+kill
+bridge
+hungry
+base
+comb
+
+aggress
+degrade
+lullaby
+prophecy
+prophesy
+are
+am
+feel
+opportunity
+chat
+name
+rung
+concoct
+plague
+plague
+epidemy
+wind
+genocide
+tun
+lie
+lie
+lie
+liar
+nice
+Europe
+bring
+killing
+killer
+know
+supplicate
+really
+head
+listen
+begin
+engage
+german
+fighter
+bravely
+impressive
+service
+train
+medal
+many
+realize
+eventually
+top
+bomber
+distinguish
+today
+record
+compile
+pilot
+remark
+urge
+involve
+great
+season
+interest
+year
+enjoy
+well
+hope
+fine
+fine
+kinyarwanda
+fortunately
+unfortunately
+banana
+do
+okay
+ok
+consolidate
+to see
+enlarge
+prevent
+obstacle
+induce
+photo
+digital
+though
+purchase
+frequently
+too
+avoid
+entirely
+regularly
+distant
+object
+benefit
+any
+doorway
+be hypocrite
+itch
+tooth
+food
+way
+at the right
+be delicious
+make pay the penalty
+be alike
+in vain
+ask for 
+confide in
+partnership
+sabbath(in Bible)
+sailor
+hunger
+tiny beads
+bead
+harvest
+make bed
+floor tile
+piece of something broken
+hair( of human head)
+cut lengthwise
+get stuck in mud
+grow old
+old man
+fly
+cow manure
+sore
+be ground
+beg
+pillow
+be mad
+cross
+dawn
+tall pointed basket
+grind in mortar
+leaven
+yeast
+publicly send away one's wife
+cave
+niece
+church building 
+prayer
+gather firewood
+fall into ruin
+sand
+slide
+be mature
+overflow
+president
+council
+rwandan
+intelligent
+here
+language
+tongue
+vagina
+pussy
+penis
+dick
+testicle
+vacation
+holidays
+soon
+dung
+economy
+heavily
+during
+since
+base
+mostly
+agriculture
+tea
+major
+cash
+export
+tourism
+tourist
+fast-growing
+subsistence
+population
+predominantly
+rural
+young
+density
+group
+notebook
+notebook
+pen
+black
+rose
+trousers
+pants
+suit
+suit
+lake
+hyena
+slut
+section
+sing
+confusion
+wolf
+stockholder
+spread
+nurse
+loss
+receipt
+little
+smile
+smile
+colour
+knee
+jaw
+shoulder
+tree
+drum
+push
+press
+chew
+chewable
+edible
+guitar
+cellphone
+prayer
+messenger
+refugee
+refuge
+circle
+hotel
+butt
+corrugated iron
+battlefield
+history
+story
+colonialism
+purpose
+cap
+swamp
+noise
+sorrow
+agony
+sign
+symbol
+emotion
+sin
+love
+deny
+door
+God
+bus
+hypocrite
+fire
+mixup
+mix-up
+hesitate
+mix
+separate
+discrimination
+gather
+prize
+vow
+vow
+incomparable
+demeanour
+demeanor
+brink
+recapitulate
+wheelbarrow
+lazy
+cafeteria
+dearth
+plinth
+newpaper
+send
+large
+document
+newspaper
+paint
+calender
+peace
+rest
+Calendar
+sand
+earring
+river
+clean
+star
+snow
+shit
+urine
+twin
+accident
+suicide
+lightning
+decree
+segregation
+exile
+architect
+mason
+Tuesday
+Monday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+moron
+idiot
+changeling
+simpleton
+half-wittedness
+refugee
+diarrhea
+goat
+abreviation
+expert
+specialist
+science
+hurry
+chinese
+crazy
+strong
+plausible
+digress
+ameliorate
+lust
+vote
+go
+bean
+sound
+election
+calmness
+mariage
+south
+senate
+senator
+candidate
+ministry
+concert
+radio station
+sand
+verb
+angel
+weapon
+spear
+chair
+pillow
+shoe
+accusation
+meeting
+urban
+treasure
+worth
+connect
+race
+roof
+shirt
+paper
+backpack
+banana tree
+happiness
+jyaruguru
+West
+East
+soap
+lotion
+sheep
+forest
+onion
+spoon
+toe
+nail
+young people
+journey
+tear
+feces
+well
+hypocrisy
+journalist
+research
+researcher
+land
+messiah
+toilet
+dove
+letter
+friend
+fruit
+pathway
+room
+lady
+skin
+Tanzania
+publicize
+organization
+check
+means
+method
+forward
+soldier
+shield
+add
+something
+subtract
+solve
+politics
+speak
+website
+nation
+sadness
+pain
+heart
+ask
+quest
+considerable
+wide
+huge
+conduct
+guide
+tomb
+prayer
+flea
+mercy
+fault
+mistake
+church
+oil
+viper
+jealousy
+towel
+brush
+shoe
+sock
+pants
+shorts
+horn
+hair
+skirt
+underwear
+breast
+sheet
+justice
+umbrella
+ring
+news
+fight
+battle
+war
+side
+zombie
+agree
+keep
+victimize
+outside
+bull
+thirst
+thirst
+alike
+Microsoft
+generosity
+generous
+gorilla
+musics
+reggae
+rector
+chief
+leader
+must
+straw
+radio
+career
+profession
+carrier
+over
+coherent
+sentence
+energy
+cable
+large
+zone
+century
+colonization
+colonisation
+america
+Madagascar
+china
+chat
+Paul
+criminal
+entire
+popular
+popular
+region
+direct
+usual
+unusual
+normal
+abnormal
+particular
+ethniciy
+previous
+ball
+diaspora
+television
+affect
+knowledge
+exile
+go shopping
+shop
+sick
+old
+pyrethrum
+omelet
+wallet
+dance
+development
+greediness
+nausea
+lust
+rust
+dancer
+shovel
+queen
+ax
+pickax
+bow
+wealth
+madness
+sickness
+air
+thunderstorm
+meat
+grocery
+marketplace
+spring
+palm oil
+laziness
+tire
+revelution
+ugly
+beautiful
+dictator
+abroad
+behind
+wake up
+meeting
+nonsense
+label
+arrogant
+slap
+imbecile
+decorate
+search
+victory
+profit
+benefit
+world
+continent
+create
+initiate
+though
+although
+family
+before
+innovate
+relevant
+irrelevant
+pack
+load
+baggage
+luggage
+reveal
+giant
+video
+found
+aim
+intend
+intention
+own
+bastard
+prostitute
+sell
+artist
+ariko
+technology
+invest
+investor
+certificate
+license
+focus
+customer
+employment
+magazine
+article
+grow
+exemplar
+frog
+toad
+bear
+rectangle
+triangle
+triangles
+sea
+rhombus
+square
+fence
+turn
+spend
+spend
+complain
+skill
+stool
+date
+salary
+competition
+stand up
+free
+curiosity
+collect
+dumb
+solution
+google
+space
+hunter
+sophisticated
+recently
+recent
+definition
+necessary
+accounting
+sphere
+mathematics
+physics
+religion
+environment
+geography
+history
+oven
+shake
+stir
+squirrel
+mute
+governor
+seller
+mean
+acrobat
+athlete
+hire
+next
+pursue
+image
+echo
+echoes
+photo
+usage
+department
+principle
+doctrine
+dogma
+guideline
+accuse
+conduct
+baby
+behavior
+public
+value
+debate
+surround
+legal
+visible
+obvious
+decision
+financial
+problem
+issue
+hope
+promise
+promise
+culture
+encourage
+wrap
+homework
+analyze
+crocodile
+ice
+nail
+grass
+tent
+refugee camp
+security
+hunger
+drought
+water source
+den
+hole
+whore
+project
+earthquake
+disaster
+berry
+duck
+reason
+hero
+cunning
+pain
+theft
+thief
+robber
+trap
+chameleon
+lizard
+gecko
+python
+beard
+zebra
+banana beer
+sorghum beer
+sorghum
+corn
+pot
+cassava
+erosion
+foot
+island
+ignorance
+courage
+road
+train
+hell
+brook
+creator
+power
+authority
+respect
+earth
+law
+existence
+the lame
+dead person
+firstborn
+thing
+sight
+barber
+miracle
+faith
+desert
+activity
+serpent
+drink
+mortar
+adulthood
+adult
+rotten
+politeness
+venom
+mat
+body lotion
+responsibility
+aid
+instruction
+anniversary
+technology
+betrayal
+traitor
+spy
+decoration
+rain
+prosperity
+hygiene
+horse
+horse
+donkey
+blanket
+cushion
+student
+unity
+slipperiness
+domestic animal
+clay
+brick
+bricklayer
+wizard
+mane
+lover
+sacrifice
+victim
+mystery
+exam
+card
+week
+tea
+aged man
+joblessness
+job
+story
+slavery
+chain
+thought
+mechanic
+client
+cigarette
+drug
+medicine
+warmth
+cemetery
+grave
+offering
+voice
+curse
+Lord
+fury
+cabinet
+book
+argument
+chance
+magnate
+elite
+rich person
+surprise
+rite
+legacy
+birthright
+member
+membership
+partnership
+leadership
+leader
+sanction
+baptism
+holiness
+benighted
+benightedness
+wine
+saint
+priest
+paster
+preacher
+prophet
+prophesy
+mediator
+cattle
+apostle
+bullet
+disciple
+cloth
+temple
+change
+importance
+fall
+spokesman
+congregation
+priesthood
+pope
+papacy
+blind
+deaf
+priest
+priesthood
+shepherd
+fail
+promote
+judgement
+also
+nature
+prince
+transform
+July
+vice
+summary
+oppression
+savior
+raise
+oppression
+oppress
+spittle
+generally
+custom
+wound
+custom
+conflict
+confirm
+obey
+obedience
+battle
+ability
+fighter
+team
+appriciate
+choir
+choirs
+suspend
+keyword
+faction
+habit
+January
+February
+March
+April
+treaty
+May
+June
+revision
+August
+patient
+September
+October
+arrive
+November
+December
+demokarasi
+guard
+ATTEND
+segragation
+racism
+arrange
+speech
+active
+measure
+light
+shave
+sharpen
+cancer
+cheat
+cheat
+cement
+cement
+comprehend
+condom
+kindness
+abstinence
+fidelity
+communication
+media
+newspaper
+aloe
+collars
+shirt
+shirts
+pants
+pants
+short
+eavesdropping
+eavesdropper
+punisher
+swelling
+prosecutor
+prosecution
+pea
+pea
+death
+flag
+wild dog
+toy
+widow
+widower
+orphan
+jacket
+jackets
+swamp
+mud
+mud
+dirt
+soil
+cave
+match
+farm
+livestock
+trough
+stable
+manger
+manure
+rope
+pile
+rooster
+hen
+beggar
+servant
+satan
+demon
+demons
+ghost
+terrorism
+terrorist
+international
+transnational
+belly button
+penal
+african
+crowd
+beggar
+dirt-poor
+kitchen
+kitchens
+burner
+stove
+chimney
+spouse
+shoopkeeper
+goalkeeper
+guard
+democracy
+flower
+valley
+hilltop
+volcano
+settlement
+donation
+author
+orange
+red
+black
+white
+green
+marriage
+wedding
+trash
+terraces
+carrot
+carrots
+nosebleed
+breeze
+colonization
+survivor
+regret
+candle
+candles
+neighbor
+neighborhood
+loss
+yellow
+pygmy
+terrace
+gain
+car
+truck
+debt
+root
+paganism
+pagan
+pagans
+firmament
+eavesdrop
+wonderful
+excellent
+homesickness
+bamboo
+police
+police
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+October
+November
+December
+genesis
+compost
+district
+sector
+cell
+province
+fetch water
+excrement
+home
+border
+sigh
+president
+presidents
+minister
+ministers
+tie
+ties
+rib
+malaria
+mislead
+rosary
+snail
+soften
+souvenir
+squash
+flavor
+bladder
+pencil
+pencils
+kidney
+porc
+needle
+labor
+dough
+drunkeness
+drunkard
+harvest
+grace
+resurrection
+supplication
+player
+puke
+face
+gestation
+ancestor
+jackal
+footstep
+conceive
+innocent
+guilty
+property
+storm
+rule
+hold
+birth
+born
+sanctify
+sweater
+desire
+force
+saw
+reproduce
+sneeze
+buy
+honesty
+honest
+move
+arrive
+iron
+iron
+irons
+silver
+gold
+need
+mimic
+stare
+motive
+appreciation
+result
+outcome
+necklace
+bracelet
+medicine
+loan
+spread
+rent
+retrieve
+revive
+rescue
+persecute
+talent
+present
+recover
+tarnish
+hesitate
+proof
+roast
+proof
+enforce
+define
+tank
+spokesperson
+elephant
+pain
+capability
+wonder
+medication
+spill
+blink
+rumour
+drawing
+forgetfulness
+villain
+villainess
+point
+interpreter
+hippopotamus
+spark
+cricket
+hospital
+horizontal
+vertical
+oblique
+even
+opposite
+invisible
+wide
+holy
+skinny
+heavy
+confusion
+confuse
+proof
+triumph
+lose
+remove
+broth
+resign
+Jesus
+covenant
+preparation
+license
+auction
+bribe
+impossible
+funny
+insult
+insult
+share
+share
+resurrection
+resurrect
+peel
+terrify
+trauma
+traumatism
+oath
+swear
+pledge
+punish
+consequence
+president
+minister
+stupid
+preeminent
+fire
+fulfill
+synopsis
+sleep
+pupil
+exaggerate
+consciousness
+applause
+miraculous
+akataraboneka
+celebrity
+block
+handwriting
+wait
+await
+mail
+mail
+scary
+rely
+skirt
+endure
+wipe
+retreat
+anounce
+escape
+explode
+attack
+missionary
+burden
+burden
+incinerate
+conspiracy
+indatana
+spoil
+speed
+velocity
+period
+question-mark
+exclamation-mark
+ejaculate
+sperm
+spermatozoid
+masturbate
+gamble
+gambler
+honest
+provoke
+accountant
+hide
+leather
+pigeon
+strategy
+urgent
+dizziness
+tune
+bias
+integrity
+sum
+fast
+uniform
+center
+Jesus
+contract
+be exhausted
+temper
+skip
+silence
+travel
+eleiminate
+role
+support
+goal
+area
+korean
+register
+reach
+pass gas
+hurting
+embarrassing
+dry
+dry
+living room
+plate
+street
+lift
+lift
+task
+guard
+elbow
+eyebrow
+eyelash
+citizen
+citizenship
+state
+states
+infiltrate
+army
+gambling
+decade
+millenium
+float
+choice
+boast
+physique
+shape
+length
+undercover
+brazier
+interpret
+laboratory
+adress
+Hallelujah
+amen
+gift
+racial
+friendly
+reject
+baptism
+eucharist
+prefer
+peaceful
+thankful
+constant
+testimony
+everyday
+overcome
+ignore
+trowel
+padlock
+ombudsman
+personality
+medicine
+albino
+albinism
+chick
+nun
+volunteer
+injustice
+loss
+party
+party
+politician
+kidnap
+stairs
+grades
+clean
+cleanse
+injury
+be injured
+lesson
+look
+symptom
+fight
+behind
+behavior
+reduce
+abandon
+meeting
+fishing
+flaw
+disclose
+theme
+deposit
+Capital
+lease
+merchandise
+liability
+liability
+equity
+fairness
+asset
+possession
+resource
+match
+cycle
+elude
+miscellaneous
+inspection
+inspect
+distract
+flow
+flow
+ash
+smart
+assist
+underworld
+advice
+courage
+patience
+impatience
+calm
+tranquil
+sharesholder
+entity
+wise
+decompose
+prior
+emission
+procedure
+safeguard
+decomposition
+efficient
+volume
+analysis
+confidence
+production
+technique
+introduction
+reproduction
+ancestry
+potter
+fist
+hide
+share
+swimming pool
+famine
+vision
+movie
+movies
+worthy
+staff
+ban
+haircut
+coma
+firm
+report
+willingness
+will
+greed
+constitution
+phase
+independent
+united
+laborer
+raise
+health
+grade
+riches
+brotherhood
+fatal
+hatred
+pollute
+drip
+contract
+nunnery
+open
+shut
+shining
+burn
+investigate
+foreigner
+hideout
+mustache
+dress
+undress
+dressing room
+fragrance
+sometimes
+amazing
+shy
+demonstration
+occasionally
+weather forecast
+magnet
+sauna
+feel guilty
+unique
+features
+distort
+introduction
+lonely
+Japan
+South Korea
+North Korea
+Korea
+Vietnam
+England
+France
+Germany
+Russia
+Belgium
+breast milk
+breastfeed
+expand
+expand
+airport
+uproot
+dirt
+scent
+aroma
+goal
+wheelchair
+picky
+ordinary
+leave
+long term
+commence
+temple
+permanent
+graduate
+spider
+simulate
+deplete
+lessen
+click
+dramatize
+refute
+sociable
+gregarious
+outgoing
+easygoing
+mom
+dad
+meditate
+circumcise
+circumcise
+circumcision
+suspect
+obnoxious
+erase
+erasor
+exhibit
+exhibition
+assign
+punch
+cold
+sweat
+age
+calculation
+detest
+for good
+reporter
+understand
+return
+cover up
+calm down
+dizziness
+electricity
+guardian
+tumor
+police station
+melt
+weigh
+beef
+daughter-in-law
+son-in-law
+police station
+plant
+cotton
+melt
+win
+lottery
+lawyer
+beef
+pork
+opposite
+pork
+flame
+Almighty
+carry out
+roof
+wake up
+permanent
+summer
+iron
+iron
+unfold
+on behalf of
+Greetings
+poet
+help
+rabbit
+lick
+lick
+honorable
+staff
+resign
+press conference
+cap
+cap
+cover
+slap
+ankle
+pinch
+monkey
+trauma
+dream
+dew
+stair
+celibacy
+single
+undies
+Genesis
+block
+block
+shed
+pass away
+training
+train
+dilute
+intelligence
+bonus
+have surgery
+do surgery
+witness
+witness
+even if
+participate
+cheat
+coup
+tie
+prisoner
+bow
+bend
+bend
+stand
+quit
+part
+wreck
+senility
+discriminate
+kick out
+tradition
+grudge
+torment
+demand
+shout
+treatment
+treat
+sign
+coward
+honeymoon
+basket
+bowl
+discussion
+compromise
+reality
+gain
+grandchild
+sleep
+underneath
+take off
+contest
+lower
+advocate
+killings
+assassin
+unexpected
+practice
+notify
+place
+investigation
+accuse
+burst
+race
+director
+difference
+unpardonable
+depart
+pill
+chop
+lightbulb
+require
+graveyard
+cemetery
+manners
+warrant
+nonsense
+lid
+moment
+use
+share
+later
+legendary
+spread
+hall
+seat
+umubumbe
+split
+boundary
+robot
+japan
+forty
+yell
+pizza
+pardon
+maid
+beer
+Blanket
+wrongdoer
+cry
+shoot
+Widower
+crap
+mosquito net
+to be widened, made wider
+to widen, make wider
+to go to pasture
+to be separated, divorced
+to herd to pasture (cattle)
+to be burning, be started
+to receive, welcome, accept, take in hands
+to spread everywhere, become known
+to advertise, publish, make known, declare, campaign
+to wear
+to be worn
+to pray, petition, call upon, supplicate, implore
+to clothe, dress someone else
+to cross body of water or land
+to refuse to payback what you owe
+to leave something in the wrong place
+to write
+to write to, write for, write on
+to be written to, written for, written on
+to register
+to be registered
+to be written
+to hate, dislike, refuse, reject
+to hate each other, dislike each other
+to resist, refuse to
+to be destroyed, damaged
+to resist, refuse to
+to damage, waste, destroy
+to be hated, dislike, refused
+to put out in the sun, expose
+to bring in from the sun
+to decide, conclude
+to stay in the house after being married (women only)
+to mix water and flour, make posho or ugali
+to cut or chop firewood
+to open one's mouth
+to start (an object), set fire to
+to be started, be burned
+to yawn
+to be, live, exist
+to be in pain, suffer, hurt
+to forgive
+to be forgiven
+to hurt, offend, cause suffering
+to arise quickly
+to butcher, operate on, remove skin
+to fight to the death, inflict serious wounds
+to weed
+to be weeded
+to be butchered, operated on
+to stretch out to dry, crucify
+to remove a hide from the pegs after drying
+to live together
+to be parallel, facing the same direction
+to hurry, go quickly, rush
+to begin by
+to precede
+to be begun by
+to count
+to make statistics
+to be counted
+to be able, capable, have the power
+to baptise
+to be baptised
+to ask, enquire, query
+to shine, gleam
+to be unjust
+to tilt, slope
+to pass after others have moved aside
+to move aside to allow passage
+to fit, be well fitting, be well dressed, be smart
+to lie, deceive
+to amuse or fool a child
+to falsely accuse, lie about someone
+to plant, sow
+to be bad tasting, foul tasting
+to crow
+to be boiling
+to roll along
+to move aside to allow passage
+to cross another's path, bypass
+to boil
+to be soft, wet
+to make soft, wet
+to bind, tie, weave, knit
+to braid, twist
+to release, liberate
+to see, find, get
+to see each other, find each other
+to be visible, appear, show up, be available
+to see at (for the first time), meet at, find at
+to make clean, visible, pure
+to be seen
+to rot, decay
+to howl, wail
+to play the board game {igisoro}
+to make bricks, pottery, mould clay
+to make bricks for someone else
+to wander
+to return from wandering
+to go from place to place selling something
+to lack, lose, not find
+to defend oneself in response to accusation
+to lose something at
+to wander about, be a vagabond
+to cause someone to wander about
+to forbid, prevent, stop
+to be forbidden
+to give birth
+to be pregnant
+to tell
+to preach, incite
+to give birth, deliver
+to cause to give birth
+to gain weight, become heavier
+to be squashing someone with one's body
+to swell
+to dance
+to be a young adult (approximately from age 15 to 40)
+to wake up, arise
+to wake someone up
+to cut, tear
+to chop up, parse
+to be half filled
+to switch on, ignite, light
+to be switched on, ignited
+to print
+to have something printed
+to be silent, quiet, stop talking
+to trick, dodge
+to come to a place undetected, be insurgent, infiltrate
+to insert, cause to penetrate
+to be torn
+to have a child with your brother's wife if he dies before providing a heir
+to make an error, err, miscalculate
+to spit
+to bargain, negotiate price
+to be spat on
+to be reduce, less, decreased
+to reduce, lessen, decrease, weaken
+to plug in, insert
+to unplug, remove
+to mash
+to penetrate slightly
+to shake something to mix it
+to dig a hole, mine
+to give off smoke
+to stay temporarily, find lodging
+to give lodging to
+to leave a place of lodging
+to penetrate, pierce
+to sin
+to separate {ikivuguto} into butter ({amavuta}) and buttermilk ({amacunda})
+to manage
+to pay ransom, redeem
+to take all of something before other people have a chance
+to play an instrument
+to turn upside down
+to do business, trade
+to be traded
+to fade
+to change from night to day
+to rebuke
+to jest, poke fun at
+to bring back, lead home
+to constantly remind someone of their inferiority
+to be brought back home
+to decant
+to not bury each other
+to be faithful, not fail someone
+to not be tempted
+to lack nothing, have luxury
+to not spend, not disperse
+to babble, stammer, stutter
+to be lazy
+to perform traditional dance
+to hinder, prevent another from advancing
+to sew
+to be sewed
+to well up, spring up (liquid)
+to be leaning (as person)
+to lean against something (as person)
+to lean or place object against something
+to approach, draw near
+to bring together
+to bring something to another
+to straighten up, become straight or upright
+to keep something straight or upright
+to give completely, without conditions
+to accept, agree, admit, be willing
+to allow, permit someone, promise
+to commit adultery, fornicate
+to brew beer
+to be white
+to show
+to show to each other
+to turn toward
+to direct, cause to turn toward
+to be very white, very pure
+to expose the truth
+to fulfil promise or agreement
+to demonstrate that one has kept one's promise
+to make pure, purify, exonerate, whiten
+to be made pure, purified, exonerated
+to support
+to help, assist
+to help, assist by giving
+to be helped, assisted
+to take, catch, grasp
+to cooperate, share, partner, join
+to encode, encrypt, hide
+to decode, uncover, decrypt, unhide
+to aim at, guess
+to take photograph (photo)
+to be photographed
+to err, make a mistake
+to close, shut, imprison, lock, logout, fast
+to be narrow
+to be open, unlocked
+to open
+to be opened
+to be closed, shut, imprisoned, locked
+to knead (bread), kick in the womb (baby)
+to wash clothes
+to give, deploy, put forth
+to be diminished, reduced, decreased
+to reduce, lessen, decrease, weaken something
+to divide, allot, reduce
+to be divided, allotted, reduced
+to turn someone over to police, report on, inform on
+to feed, give food
+to be fed, given food
+to spoil, be spoiled (food)
+to become stiff, stiffen
+to make stiff, stiffen
+to talk
+to betray
+to decide, determine, plan, plot, be intent
+to go forward, advance, proceed
+to chat, converse, discuss
+to moan, groan, wail, grieve, lament
+to complain
+to conquer, utterly defeat, rout
+to be conquered, utterly defeated
+to be visible, clear, obvious, evident
+to make visible, clear, obvious
+to be made visible, clear, obvious
+to lie on one's back
+to return here
+to row, paddle
+to be ungrateful, unappreciative
+to bring food
+to bring food to someone
+to be brought food
+to plan for, decide, assign
+to go, leave, walk
+to walk about
+to go together, accompany, escort
+to be accompanied, escorted
+to allocate role or thing to a person
+to legislate, govern
+to become wide, widespread
+to demonstrate, show how, do
+to do something in specific way for someone
+to investigate
+to reach, arrive, measure
+to try, attempt, tempt
+to place on top of something else, stack, append
+to be stacked on each other, be cascading
+to compare, estimate
+to be reached
+to harvest millet, wheat or sorghum
+to end with, reach, until
+to be in puberty (boy)
+to stutter, stammer, hesitate
+to hesitate, be fearful
+to have, make
+to be made of, composed of
+to move to find pasture
+to ask for advice, consult
+to be asked for advice, consulted
+to unexpectedly help or aid
+to rebel, disobey
+to have to, need to, must, should
+to be difficult, troublesome
+to bend
+to become evening or later in the day
+to make straight, straighten, iron
+to reward, recompense (as king)
+to become straight, be flexible
+to be unfortunate, unlucky
+to encircle, surround
+to feel physically
+to stay, remain
+to stay with, remain with
+to buy, purchase
+to exchange, swap
+to buy for, buy from
+to sell
+to be sold
+to lend money to someone
+to fly
+to be bought
+to cause to fall, take down
+to borrow, lend
+to fall
+to be overcome by tiredness
+to happen suddenly or unexpectedly, catch red handed
+to faint, be tired, hungry and thirsty
+to overeat, eat too much
+to be badly behaved
+to be well behaved
+to be accumulated, multiplied
+to accumulate or multiply something
+to give to
+to be lost, wander about with hope of finding the way
+to find the way after being lost
+to be given, receive
+to be full, satisfied
+to stop, stand
+to represent, stand in for, take another's place temporarily
+to cause to stop or stand
+to stand up, arise
+to cause one to stand
+to exchange, trade something (including labour)
+to be traumatised
+to be pregnant
+to deny, refuse, reject
+to remain, stay
+to call (by phone)
+to bury someone
+to bury each other, take care of each other
+to tie up, bind, wrap
+to become untied, loose
+to untie, unwrap
+to be buried
+to testify to
+to be cowardly
+to witness, testify, affirm, authenticate
+to correct, reprimand
+to rub, polish, wipe, dust
+to perform a piece of music
+to oppose, face each other
+to win despite being the underdog
+to worry, be anxious, worried
+to cease to be best, go out of fashion
+to be possessed by, invented by, created by
+to be put above
+to fall from above
+to pull down
+to seek prophesy
+to be corrected, reprimanded
+to give up, let something go
+to strive for
+to scrape, scratch, dig just the topsoil
+to peel with knife
+to be peeled with knife
+to satisfy, be sufficient, enough
+to be lost forever
+to exceed, be superior
+to lust
+to carry, transport
+to chew
+to be chewed
+to be carried on someone's back, given a ride on bike
+to pay for something done, reward
+to pay at, reward at
+to be paid at, rewarded at
+to earn, rewarded, be paid for something done
+to be unfaithful, fail someone
+to treat very badly, abuse
+to be treated very badly, abused
+to overcharge, charge too much, be expensive
+to beg, beseech, plead
+to be cheap
+to be overcharged
+to end, cease, disappear
+to accompany, escort
+to be near, beside
+to convey, transmit
+to be last, come last, have done recently
+to have or make come last
+to bend
+to send away, refuse permission to enter
+to hunt
+to follow earnestly after
+to invent, write, author
+to praise
+to shorten, summarize, sum up
+to thunder
+to become, be changed
+to turn around, come back
+to turn something around
+to change, edit, alter
+to be changed, edited
+to grow, cultivate, dig
+to arrive, emerge
+to cause to arrive, summon, place
+to displease, disappoint
+to scorn, criticize
+to turn upside down, push away
+to be lucky, blessed, fortunate
+to hide, conceal
+to reveal
+to pass by
+to select, choose, pick
+to have diarrhoea
+to embrace
+to embrace each other
+to plaster
+to speak without thinking
+to beat
+to knock down, smash
+to wilt, change expression on hearing bad news
+to atone
+to survive (a calamity)
+to be always, continually
+to make sound like approaching rain
+to lose weight
+to stop, prevent, quell
+to twist cords
+to receive fare, receive rent
+to fall from above, crowd
+to be busy, occupied, distracted
+to be busy, occupied with something
+to be intelligent, skilled, capable
+to arouse, inform, urge to correct one's ways
+to be aroused, informed
+to seize property of another
+to blow (wind)
+to be light in weight
+to be blind
+to be totally blind
+to be defiled by breaking a taboo, have skin disease
+to become clean
+to make ceremonially clean
+to make unclean, defile
+to breathe
+to be inspired
+to close one's eyes
+to regain sight
+to smell good
+to comfort, console, encourage
+to be comforted, be consoled, quietened
+to flavour, make smell good, make taste good
+to flee, be exiled from
+to be exiled to, flee to
+to return from exile, be repatriated
+to remove corn from the cob
+to store crops in a granary
+to nod off, doze
+to nod off, doze
+to not look someone straight in the eye
+to meet
+to go out against, run with crowd, charge, rescue
+to bring together, mediate, associate, connect
+to cease, grow weary, rest, relax
+to steal, steal from
+to forget
+to live alone
+to concentrate on
+to err, make a mistake
+to dip in water (part of body)
+to be proud
+to remember, recall
+to question, reason about
+to remind
+to think about
+to kill
+to sit
+to cause to sit
+to kill for
+to cause to kill
+to go ahead, move on
+to swing, be swinging
+to be killed
+to enjoy oneself, have fun
+to help oneself
+to help oneself to something, use
+to abstain
+to cover oneself, wrap around oneself
+to wish, desire
+to be desired
+to study, learn
+to study together, imitate
+to worry, be anxious, worried
+to riot, demonstrate
+to thrash around as a sick person does
+to be ashamed
+to go by oneself
+to be independent
+to have ever had, try on clothes
+to do something risky or difficult, dare
+to teach
+to be taught
+to give up, sacrifice, fast
+to go to the toilet
+to repent
+to warn, threaten
+to be apparent, obvious
+to be patient, endure
+to be special, for a special purpose, not share with others
+to despair
+to be alone
+to be silent, leave someone alone
+to find out, learn, discover, be informed
+to hurry, go quickly
+to be dark, get dark
+to murmur, be discontent
+to be startled
+to be selfish, stingy
+to board a ship
+to do oneself
+to carry (a load), carry on head
+to multiply oneself
+to fall down before (in respect)
+to withdraw quickly
+to love oneself, be selfish
+to withhold, refuse to give
+to know oneself
+to move, change residence, relocate
+to move something, shift, postpone
+to harden one's heart
+to please oneself, enjoy oneself
+to beg, beseech, plead with
+to covertly gather information by questioning
+to enter
+to be investigated without knowing
+to complain, grumble
+to move one's body without moving place
+to change from day to night, be evening
+to be black
+to boast
+to defend oneself against accusation
+to overcome weakness
+to neglect, overlook, procrastinate
+to take responsibility for something, carry something without using your hands
+to throw behind oneself, get rid of
+to wash and comb oneself
+to beware, be careful of
+to trust, rely on, hope, expect
+to spend the day
+to cause to spend the day
+to rush upon, push
+to run
+to chase, run after
+to run
+to lie on pillow
+to be happy, glad
+to insure, be insured
+to show physical fear, mistrust
+to show off
+to pay, repay debt
+to read for oneself
+to wash, cleanse, purify oneself
+to be higher
+to examine oneself
+to call, name
+to answer when called, respond
+to give oneself, surrender oneself
+to separate oneself, distance oneself
+to wait for
+to look at intently, study
+to prepare oneself
+to cut oneself
+to be careful, cautious, softly spoken, gentle
+to observe, obey, keep, pay attention to
+to fuss, complain, blame oneself
+to complain
+to exercise, practise
+to sneeze
+to put all one's strength into something
+to go to the toilet, relieve oneself
+to repay, put down by oneself
+to be called, named
+to be concerned about
+to complain verbally
+to become upset and leave
+to deprive oneself of
+to rebuke, warn
+to advertise oneself, campaign
+to be careless in personal appearance
+to register oneself
+to accept oneself, have self-confidence
+to show oneself, exercise, do gym
+to remember oneself
+to cause oneself to spend the day
+to fast, spend the day without food
+to cover oneself in bed
+to clean oneself
+to respect oneself
+to build oneself
+to wash oneself, shower
+to think about, be in deep thought
+to reconcile
+to bring for oneself
+to hope, believe, have faith
+to celebrate, cause to rejoice
+to dip in water
+to go from place to place
+to shake, move
+to be informed, knowledgeable
+to instruct, enlighten
+to not know, be ignorant of
+to throw away, discard
+to attack, conquer, pester
+to appeal to a higher court
+to go to, continually
+to go together to, take
+to exaggerate, be too much
+to milk, dry up, stop bleeding
+to crawl (like a baby)
+to wring out, squeeze juice from
+to click (on computer)
+to tread on
+to startle, frighten
+to warn, threaten
+to be seized with terror
+to threaten, intimidate with
+to be awake
+to awaken someone
+to be awoken
+to scold loudly
+to open one's eyes
+to wash one's hands
+to be ready to attack
+to fry
+to cut, turn (slang: have sex)
+to hurry, go quickly
+to lose flavour, become bland
+to tighten
+to cut into pieces
+to look all around
+to suspect, suppose, think
+to be tempted
+to be poor, needy
+to need
+to mistrust, have suspicions about
+to be wrapped around the waist
+to wrap something around one's waist, put on a belt
+to understate, belittle
+to make late
+to be late
+to have because of
+to take on one's lap
+to surround
+to play with
+to rape
+to close, shut, lock
+to hide from sight, obscure
+to open, unlock
+to get well, be healed, be rich
+to be wicked
+to be righteous, just
+to tickle
+to be tickled
+to save, heal
+to be saved, healed
+to have dowry paid on your behalf (as bride)
+to hire, rent
+to colonize
+to prevent, hinder, stop
+to knock
+to group things together, tag
+to be strong, great
+to be injured, wounded, hurt
+to continue, carry on
+to be descended from, originate from
+to take from the origin
+to light, set alight, set on fire
+to be cold
+to copy (on computer)
+to do, work
+to work together
+to gather together
+to work at, work for
+to have work done for, have something done against, be committed against
+to use, employ, fix
+to be used, fixed
+to dig into side of
+to cough
+to be done
+to cause to touch, touch with
+to multiply
+to mess around, cause problems
+to beat, hit, strike
+to sweep
+to clean out the place where animals sleep
+to miss, be lonesome for
+to prevent, suppress, limit
+to elongate
+to elongate a woman's labia
+to like, love
+to pretend to love
+to love each other
+to allow, like for
+to be liked, loved
+to prefer one spouse over others
+to enrich, satisfy, fill
+to shake something to clean it (e.g. rug)
+to shake something to clean it (e.g. rug)
+to grow up
+to have an abortion, terminate pregnancy, miscarry, have miscarriage
+to follow
+to be followed
+to apply
+to drag along
+to pull, draw, drag
+to care for lovingly
+to pay dowry
+to be middle aged
+to wear something on one's feet, put on shoes
+to take off sandals or shoes
+to fit, be fitting
+to hang up, place above
+to descend
+to take down, lower
+to smash, break into pieces
+to spend, stay
+to break, spill, empty
+to be broken, spilled, emptied
+to know
+to be familiar
+to be known, become known
+to make known, publish, announce
+to be familiar with, accustomed to
+to cause to be familiar
+to feel, be in a state of
+to wash clothes
+to strain, filter
+to swallow
+to be swallowed, underwater
+to bark
+to shine, enlighten, present, show
+to be illuminated, enlightened
+to smile
+to be hanging
+to sharpen
+to struggle, have a hard life
+to be hard of heart, hard to untie
+to fail
+to be tired, exhausted, incapable
+to be lazy
+to criticise someone's attire in front of others
+to triumph, conquer
+to make wet
+to please someone, make someone happy
+to be happy, pleased, joyful
+to please
+to be equal
+to draw, equalize (in a game)
+to choke, tie neck of sack
+to defecate
+to gouge
+to complete, finish, be smooth
+to smell bad
+to take by force
+to rain on
+to be rained on, get wet
+to urinate (slang: piss, pee)
+to cause to urinate
+to be caused to urinate
+to be shaking, trembling
+to be drunk, consumed
+to rinse
+to pass, go via, go through
+to drink
+to drink together
+to swim, bathe
+to spread, publish, make known
+to cut hair or beard or wool
+to send message to
+to send something or someone, message
+to apply, attach, paste (on computer)
+to set sail, leave by boat, cross a body of water
+to arrive by boat
+to wander, stray
+to treat wounds
+to cause to treat wounds
+to add, repeat, do again
+to try again, retry
+to whisper
+to be nursing
+to damage, spoil
+to be damaged, spoiled
+to nurse, breastfeed
+to be nursed, breastfed
+to be easy, simple, soft
+to be better after illness, improved physically
+to keep or raise livestock
+to reproduce, breed, multiply, increase in number
+to tempt, influence badly
+to lure someone, seek someone to harm them
+to warm oneself by fire
+to burn, bake, roast
+to clean, wash
+to pack, load
+to unpack, unload
+to oversee, supervise
+to die
+to become widowed
+to cover, wrap
+to kneel
+to get hole (e.g. bucket)
+to make hole in (e.g. bucket)
+to become more crowded, more full
+to tie, make knot
+to tie in knots
+to close, seal, put lid on
+to open, untie
+to wrap up
+to pluck (feathers or hairs)
+to hide
+to waste, use up for nothing
+to measure, weigh, examine
+to cause to measure
+to oppress
+to rub
+to faint, wilt, dry up (plant)
+to shine, reflect light
+to catch glimpse of, suddenly see
+to give inheritance
+to herd animals, shepherd to pasture
+to practise divination, fortune tell
+to inherit
+to vow, swear
+to be angry
+to live long, last long
+to lie down, stretch out
+to put down, put on, spread out
+to stretch out, be lengthy, extended
+to spend the night
+to have labour pains, be ready to deliver
+to greet
+to worship, adore, honour
+to lead by the hand
+to pull out, uproot
+to make known, publish, announce
+to stare at, seek after
+to not pay attention, be distracted
+to neglect somebody, ignore
+to be finished, completed
+to finish, complete
+to call from a distance, shout, raise one's voice
+to spend the night
+to look up, raise one's eyes
+to look around
+to invite, inform
+to strongly desire, lust, covet
+to leave home, be a vagabond
+to shoot with arrow or gun, rise (as sun)
+to shoot at, rise at
+to praise
+to watch, look at, see, view
+to look everywhere
+to accuse, blame
+to allow, let, cancel
+to stop
+to release
+to create
+to be seriously ill, injured, very sick
+to signal to come
+to push someone to the limit of endurance, cause to suffer greatly
+to be heavy
+to be heavy laden
+to pass, surpass, disappear behind, set
+to give justice to one who has been treated injustly
+to treat unjustly, persecute
+to pass at, set at
+to be submerged
+to ridicule
+to raise child, rear
+to influence, woo
+to trample on
+to be eaten
+to fall in ruins
+to cheat, trick, lie
+to disappear into ground, not be findable
+to dress beautifully, wear ornaments
+to perish, go to hell, be uprooted
+to destroy, condemn to hell, uproot
+to wait for, watch, guard, protect
+to wait for, expect
+to be equal, even, flat
+to make equal, flat, even, put in order
+to cry, weep
+to sing
+to pasture, eat with (a utensil)
+to fish
+to choose, select, set aside, ordain
+to bewitch
+to interrupt
+to throw into water
+to drown, sink
+to pull from water or fire
+to be saved, delivered
+to save from danger or death
+to go on further
+to be economical, frugal
+to talk too much
+to exhaust, describe, relate in detail
+to wash vegetables
+to marry, have sex
+to be married, have sex
+to receive something special or undeserved
+to stop doing something
+to taste
+to dream
+to become angry, violent
+to be tired
+to have rest, take break
+to vomit, erupt
+to bite
+to produce much fruit or offspring, be fertile
+to open, blossom (as flower)
+to pile together, heap
+to pile carefully, finish
+to lean over to look at
+to be bitter
+to be greater than, more than, surpass
+to surpass, do more
+to annoy, trouble, be difficult
+to have more than
+to fight
+to fight against
+to be sick, ill, sore
+to eat, bite
+to nibble, eat a little of everything
+to lie down, go to bed
+to lie together, have sex
+to eat together
+to bite with, stir up trouble
+to act hypocritically, be a hypocrite
+to itch
+to be delicious, excellent
+to make pay the penalty, penalise
+to beg, request, ask for something
+to confide in
+to beg persistently
+to crack
+to overflow, be more than, be surplus
+to grow luxuriously
+to be left over, remain
+to pillage, plunder
+to search, check
+to shout, cry out
+to roof, build roof
+to shout, cry aloud, make noise
+to catch in the hand
+to be dying, at point of death
+to commit adultery, fornicate
+to take off roof, reveal publically
+to scatter, be scattered
+to cause to scatter
+to join with (people), encounter others
+to go to meet
+to eat together, drink together, share
+to be joined with (people)
+to be crazy, mad, lose one's mind
+to harvest
+to make bed, prepare room
+to cut lengthwise
+to get stuck in mud
+to grow old, be old
+to be ground, powdered
+to speak evil of, mock, make fun of
+to climb tree or pole
+to smile, laugh
+to grind in mortar, bump into
+to leaven
+to translate
+to publically send away one's wife
+to be filled to the brim
+to pray, worship
+to pray together, worship together
+to pray at, worship at
+to gather firewood
+to fall into ruin
+to hiccup
+to slide
+to spread, disperse, dismantle
+to be mature
+to spend without concern, be uneconomic
+to overflow, spill, arrive
+to analyse, examine carefully
+to make laugh, be funny
+to take leave of, depart, bid goodbye
+to promise, bid each other goodbye
+to accompany, escort
+to castrate
+to want, seek, search, look for
+to marry
+to research, search diligently
+to want, seek, search, look for something for someone else
+to cause to search or seek
+to be torn, ripped
+to tear
+to be sour
+to make sad
+to overwhelm, weigh down, make sad
+to doubt
+to reach
+to praise, thank
+to nail down, establish, reinforce, emphasize
+to take hostage, steal cattle
+to drive stake, decide, vote, establish
+to come out (as stake in ground), be disestablished
+to pull out (as stake in ground), disestablish
+to accuse, blame
+to be accused
+to torture, mock, ridicule
+to finish, end, run out, wear out
+to be well fed
+to persevere, make effort
+to encourage, exhort
+to tear, rip something
+to peel
+to be peeled
+to be at the end of oneself
+to be in despair, dumbfounded
+to be possible
+to be able to, can
+to melt
+to lead (esp. animals)
+to be friends with
+to persuade, convince, tempt to do something
+to tempt, entice, fool, deceive lightly
+to bite
+to surround, encircle
+to analyze, sift, winnow
+to draw
+to be burning
+to do or say something you're not supposed to do or asked to do
+to be silly, clown, joke around
+to support, prop up, second a motion
+to confide in, have close relationship with
+to marry a couple
+to be married together, marry
+to come out of the ground
+to bury, archive
+to be buried, archived
+to put, place
+to charge, recharge
+to be hot
+to whistle
+to heat
+to erase, delete, close up path
+to whistle
+to leave, forsake, abandon
+to paint
+to remain
+to jump
+to replace, substitute
+to be drunk
+to honour, praise
+to sleep, be asleep
+to stumble, trip
+to be understanding
+to understand
+to explain, interpret, translate
+to explain to
+to ask for explanation, ask for interpretation
+to misspeak, err
+to tip-toe, walk slowly and quietly
+to taste (a little of something)
+to be tasted
+to go out, leave
+to send out
+to fulfil, complete, accomplish
+to comb, brush hair
+to read
+to kiss repeatedly, kiss passionately
+to be kissed repeatedly, kissed passionately
+to kiss each other
+to be read
+to second a motion, reinforce, support
+to be hungry
+to pick, gather fruits
+to be picked, gathered (fruits)
+to slip out, stick out
+to postpone, delay
+to be postponed, delayed
+to return there, go back, do again, repeat
+to reply, answer
+to be returned, repeated
+to be forced back, regress
+to weld, solder
+to greet
+to sigh
+to pour into
+to clean
+to be taller than, greater than
+to seize, grab, trap
+to push
+to visit
+to disobey, defy
+to examine, scrutinize, test
+to be examined, scrutinized, tested
+to have sexual intercourse
+to have sexual intercourse
+to grind, crush, powder
+to lose, leave behind, discard
+to bury
+to aid, assist, help
+to be aided, assisted, helped
+to be just, impartial
+to not see, not find, not get
+to tear, be torn
+to be buried
+to waste, be careless
+to not have
+to go home, be next
+to yelp, cry out, howl, shriek
+to sacrifice
+to place across, span
+to step, advance, move on
+to surpass in
+to be sacrificed
+to not know
+to divorce, separate, leave each other
+to be dispersed, scattered (people or animals)
+to separate, divorce
+to differ, be different, separated, divorced, split
+to give, offer, allocate
+to marvel, wonder, be astonished
+to encircle, surround
+to announce, publish
+to be amazed, astonished, announced, published
+to begin, start
+to initiate, start something, cause to begin
+to be given, offered, allocated
+to separate
+to tear up, rip up
+to greet, send greetings
+to spy
+to be stubborn, obstinate, firm, adamant
+to tuck in (e.g. shirt)
+to set trap, trip up, wait for
+to hold out hands
+to listen well
+to decorate one's hair
+to prepare, plan
+to command, rule, reign
+to wait for someone
+to prepare, plan, arrange, configure
+to cook
+to recount to
+to think about
+to telephone, call
+to cut using knife or machete
+to flow (as liquid)
+to go about, walk about, circulate
+to plant, lay (eggs)
+to inject
+to gather, come together
+to combine, merge, add to
+to place, put something
+to put milk somewhere where it will become {ikivuguto}
+to be placed, put somewhere
+to throw at
+to abandon
+to be abandoned
+to be thrown at
+to raise, lift up something
+to be raised, lifted up something
+to be planted, laid (eggs)
+to dote, show excessive affection
+to spoil (a person)
+to be spoiled (a person)
+to do something illegal or forbidden
+to be dull, blunt, not sharp
+to shake something
+to be shaken
+to delay
+to hesitate, be slow
+to commit homosexual acts
+to be afraid, scared
+to dare, be fearless, brave
+to borrow something
+to leave secretly
+to lend something to someone
+to disturb, trouble
+to pierce, make hole in
+to get wet
+to be favourite
+to queue
+to conjugate
+to align
+to quarrel, argue
+to scold, rebuke
+to not add, not repeat
+to shell, peel (with fingers)
+to drip, fine rain, drizzle
+to choose, vote, elect, pick, select
+to choose from a group, pick up here and there
+to choose from a group, pick out
+to be chosen, elected
+to persecute
+to train, coach
+to destroy, exterminate
+to stop, tie up or moor boat
+to win, beat, overcome, defeat, pass, succeed
+to justify
+to be justified
+to fail, be beaten
+to rub hard, polish
+to slide down hill on piece of banana trunk
+to move something down, push for, strive for
+to increase, multiply something
+to bribe
+to abuse verbally, slander, insult
+to be red
+to send, cause, be reason for
+to soak
+to stare, look at intently
+to elevate
+to invite
+to order
+to disobey
+to possess, own
+to be perfect
+to clean up, organise, perfect
+to appear suddenly
+to surprise
+to be surprised
+to live at, dwell in, reside, inhabit
+to lie in wait to steal or harm
+to be neighbours
+to be made neighbours
+to be burst
+to silence, make quiet
+to burst something
+to come from, originate from
+to be occupied, inhabited, lived in
+to be silent, quiet, peaceful
+to silence, make quiet
+to drive, ride, take, carry, lead; to take (as in time)
+to burn
+to cover
+to be covered
+to be pregnant
+to be sharp
+to honour, respect, revere, obey
+to disrespect, not honour
+to build, make a family
+to bend over, stoop down
+to lie on one's stomach
+to lie in ambush
+to look up
+to shelter (from rain or sun)
+to bathe someone or something
+to be dry
+to astonish, astound
+to hear, listen, understand, feel
+to agree, understand each other
+to obey
+to eavesdrop
+to be heard, understood, felt
+to bow, bend over
+to join, connect, reconcile, mediate
+to gain, profit
+to cause to gain, make profitable
+to descend, climb down
+to be full, complete, finished
+to fill
+to come from
+to come with, take from
+to mix, stir
+to separate
+to fetch water
+to speak about, say, talk
+to row (boat)
+to speak or talk with
+to speak to, talk to
+to be spoken to, talked to
+to renew, revive, repair
+to contradict, disagree
+to be spoken about, talked about
+to be born
+to be born together
+to curse
+to take food or drink when not invited to a party
+to discover
+to break, snap
+to break something into pieces, smash
+to spit on
+to break, be broken
+to break somewhere
+to change money, exchange
+to be broken by
+to translate
+to be translated
+to treat a sick person
+to beat, whip (milk, eggs, etc)
+to cause to lose, hinder from getting
+to knock down with
+to run fast, evade
+to melt, be melted
+to cause to melt
+to lose one's way, err, stray
+to perplex, confuse, dumbfound
+to be perplexed, mistaken, confused
+to be lead
+to lead
+to ask directions
+to come to
+to climb, ascend, go up
+to lift up, raise
+to come with, bring
+to bring for
+to make dizzy
+to be dizzy
+to wander about, walk about aimlessly
+to disappoint
+to become opened
+to open
+to save (as money)
+to be extinguished, go out
+to make feast, serve meal
+to go astray, lose the way, become lost
+to switch off, extinguish
+to get up early
+to fold, roll up, crumple
+to cease to love, abandon
+to be forbidden, be taboo, oppose, exclude
+to tie animal to post
+to consider, think on, ponder, meditate
+to observe
+to plant hedge
+to untie animal
+to blame, reproach
+to arise from the dead, be resurrected
+to shake one's head
