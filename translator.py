@@ -1,8 +1,8 @@
 kin = open("kinya.txt").readlines()
 eng = open("eng.txt").readlines()
 
-print(len(kin))
-print(len(eng))
+#print(len(kin))
+#print(len(eng))
 
 def clean(str):
     str = str.lower()
@@ -45,6 +45,7 @@ translate("cats and dogs are both mammals", eng2Kin)
 translate("God spends the day elsewhere but spends the night in Rwanda.", eng2Kin)
 translate("laws are heavier than stones", eng2Kin)
 
+print("___________________________________________")
 print("___________________________________________")
 
 testSentences = open("test.en").readlines()
