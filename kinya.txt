@@ -1,5 +1,6 @@
 Nshobora koga.
-(to be able=gushobora; kubasha)
+na
+kubasha
 kwerekera
 konti
 sharira
@@ -10,22 +11,22 @@ ugutunganya
 iyamamaza
 nyuma
 ubuntu
-(to be against=kurwanya)
+kurwanya
 ubwumvikane
 umwuka
-ose
+twese :: byose
 hafi
 muri
 ingano
 umukino
 arakaye
 imfuruka
-inyamaswa :: inyamaswa
+inyamaswa
 igisubizo
-urutozi (pl= intozi)
+urutozi :: intozi
 (-)
 itunda
-ukwemeza; ukwemezwa
+ukwemeza :: ukwemezwa
 ikitabashwa :: ibitabashwa
 impaka
 ukuboko :: amaboko
@@ -34,7 +35,7 @@ gusatira
 kugerageza
 ubushishozi
 ibirangaza
-ububasha (...ubutegetsi,ubuyobozi)
+ububasha :: ubutegetsi :: ubuyobozi
 ikora
 uruhinja
 umugongo :: imigongo
@@ -47,7 +48,7 @@ ibesani :: amabesani
 urushundura
 kuba
 uburiri :: uburiri
-uruyuki (pl.=inzuki)
+uruyuki :: inzuki
 mbere
 imyifatire
 kwizera
@@ -68,23 +69,23 @@ ubwato
 umubiri :: imibiri
 kubira; gucamuka
 igufwa :: amagufwa
-igitabo (pl.= ibitabo)
+igitabo :: ibitabo
 gutangira
 icupa :: amacupa
-agasanduku (pl.= udusanduku)
+agasanduku :: udusanduku
 umuhungu :: abahungu
 ubwonko
-ishami (pl.= amashami)
+ishami :: amashami
 umuringa :: imiringa
 umugati :: imigati
 impumeko
-itafari (pl.= amatafari)
+itafari :: amatafari
 iteme
 bengerana
 kumena
 umuvandimwe
 ibihogo
-uburoso (N); gukuba (to brush, V)
+uburoso :: gukuba 
 indobo :: indobo
 inyubako
 agapfundo
@@ -102,7 +103,7 @@ ingorofani
 injangwe
 impamvu
 uruhererekane
-INGWA
+ingwa
 amahirwe
 hendutse
 agatuza

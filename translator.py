@@ -1,8 +1,12 @@
 kin = open("kinya.txt").readlines()
 eng = open("eng.txt").readlines()
+adjs = [k.strip().lower() for k in open("adj.txt").readlines()]
 
 #print(len(kin))
 #print(len(eng))
+
+engWordsToIgnore = ["the"]
+
 
 def clean(str):
     str = str.lower()
@@ -23,8 +27,16 @@ kin2Eng= {}
 for i in range(len(kin)):
     engStr, kinStr = clean(eng[i]), clean(kin[i])
     eng2Kin[engStr] = kinStr
+    eng2Kin[engStr+"s"] = kinStr # plural forms of names and third person
+                # a more accurate fix needs to be added to the data files
     kin2Eng[kinStr] = engStr
     
+for w in engWordsToIgnore:
+    eng2Kin[w] = ""
+import re 
+def addSpaces(str):
+    str = re.sub(r"([\w/'+$\s-]+|[^\w/'+$\s-]+)\s*", r"\1 ", str)    
+    return str;
 import string
 def remove_punctuation(str):
  replace_punctuation = string.maketrans(string.punctuation, ' '*len(string.punctuation))
@@ -32,15 +44,29 @@ def remove_punctuation(str):
  return text
     
 def translate(sentence, transdict):
-    sent = remove_punctuation(sentence)
-    #print(sent)
-    words = sent.split()
-    #print(words)
+    sent = addSpaces(sentence)
+    #sent = remove_punctuation(sentence).lower()
+    
+    words = [clean(word) for word in sent.split(" ")]
+    
+    i = 0
+    while i < len(words)-2:
+        if words[i] in adjs:
+            current = words[i]
+            temp = words[i+1]
+            words[i] = temp
+            words[i+1] = current
+            i = i+2
+        else:
+            i = i+1
+    print(words)
+    
     trans = [transdict[w] if w in transdict.keys() else w for w in words]
-    #print(trans)
+    
     print(' '.join(trans))
+    return (' '.join(trans))
 
-translate("hello, my name is patrick. good morning, let us go eat", eng2Kin)
+translate("Hello, my name is patrick. good morning, let us go eat", eng2Kin)
 translate("cats and dogs are both mammals", eng2Kin)
 translate("God spends the day elsewhere but spends the night in Rwanda.", eng2Kin)
 translate("laws are heavier than stones", eng2Kin)
@@ -49,5 +75,8 @@ print("___________________________________________")
 print("___________________________________________")
 
 testSentences = open("test.en").readlines()
+testOutput =  open("test.out", "w")
 for k in testSentences:
-    translate(k, eng2Kin)
+    testOutput.write(translate(k, eng2Kin)+"\n")
+
+testOutput.close()
