@@ -59,7 +59,7 @@ def translate(sentence, transdict):
             i = i+2
         else:
             i = i+1
-    print(words)
+    #print(words)
     
     trans = [transdict[w] if w in transdict.keys() else w for w in words]
     
