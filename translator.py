@@ -5,7 +5,7 @@ adjs = [k.strip().lower() for k in open("adj.txt").readlines()]
 #print(len(kin))
 #print(len(eng))
 
-engWordsToIgnore = ["the"]
+engWordsToIgnore = []
 
 
 def clean(str):
@@ -50,15 +50,15 @@ def translate(sentence, transdict):
     words = [clean(word) for word in sent.split(" ")]
     
     i = 0
-    while i < len(words)-2:
-        if words[i] in adjs:
-            current = words[i]
-            temp = words[i+1]
-            words[i] = temp
-            words[i+1] = current
-            i = i+2
-        else:
-            i = i+1
+    # while i < len(words)-2:
+    #     if words[i] in adjs:
+    #         current = words[i]
+    #         temp = words[i+1]
+    #         words[i] = temp
+    #         words[i+1] = current
+    #         i = i+2
+    #     else:
+    #         i = i+1
     #print(words)
     
     trans = [transdict[w] if w in transdict.keys() else w for w in words]
@@ -66,7 +66,7 @@ def translate(sentence, transdict):
     print(' '.join(trans))
     return (' '.join(trans))
 
-translate("Hello, my name is patrick. good morning, let us go eat", eng2Kin)
+translate("Hello, my name is Patrick. Good morning!", eng2Kin)
 translate("cats and dogs are both mammals", eng2Kin)
 translate("God spends the day elsewhere but spends the night in Rwanda.", eng2Kin)
 translate("laws are heavier than stones", eng2Kin)
