@@ -50,15 +50,15 @@ def translate(sentence, transdict):
     words = [clean(word) for word in sent.split(" ")]
     
     i = 0
-    # while i < len(words)-2:
-    #     if words[i] in adjs:
-    #         current = words[i]
-    #         temp = words[i+1]
-    #         words[i] = temp
-    #         words[i+1] = current
-    #         i = i+2
-    #     else:
-    #         i = i+1
+    while i < len(words)-2:
+        if words[i] in adjs:
+            current = words[i]
+            temp = words[i+1]
+            words[i] = temp
+            words[i+1] = current
+            i = i+2
+        else:
+            i = i+1
     #print(words)
     
     trans = [transdict[w] if w in transdict.keys() else w for w in words]
