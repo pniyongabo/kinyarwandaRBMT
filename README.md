@@ -4,7 +4,5 @@
 
 * For a statistical MT model, check https://github.com/pniyongabo/kinyarwandaSMT
 
-* Thesis Paper: http://patrickniyongabo.com/pdf/senior-thesis-paper-final.pdf
-
-* To learn more, visit the project website: http://kinyarwanda.online/
+* Thesis Paper: https://github.com/pniyongabo/SeniorThesisPaper/blob/master/Senior_Thesis___Final___April_13_2017.pdf
 
