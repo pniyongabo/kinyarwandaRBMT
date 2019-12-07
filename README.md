@@ -1,5 +1,5 @@
 # A Simple English - Kinyarwanda Rule-Based Machine Translation (RBMT) Model
-* [Full Thesis Paper](https://github.com/pniyongabo/SeniorThesisPaper/blob/master/Senior_Thesis___Final___April_13_2017.pdf)
+* [Full Thesis Paper](https://github.com/pniyongabo/SeniorThesisPaper/blob/master/finalCopy.pdf)
 * [Rule-Based MT Model](https://github.com/pniyongabo/kinyarwandaRBMT)
 
 
